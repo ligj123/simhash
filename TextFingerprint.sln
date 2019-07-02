@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextFingerprint", "TextFingerPrint\TextFingerprint.vcxproj", "{FA3755A6-AF01-421E-BC74-C0E6B51DF116}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FingerSearch", "FingerSearch\FingerSearch.vcxproj", "{F43B8940-3AA3-4B6F-BA7A-8905757D912D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA3755A6-AF01-421E-BC74-C0E6B51DF116}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FA3755A6-AF01-421E-BC74-C0E6B51DF116}.Debug|Win32.Build.0 = Debug|Win32
+		{FA3755A6-AF01-421E-BC74-C0E6B51DF116}.Release|Win32.ActiveCfg = Release|Win32
+		{FA3755A6-AF01-421E-BC74-C0E6B51DF116}.Release|Win32.Build.0 = Release|Win32
+		{F43B8940-3AA3-4B6F-BA7A-8905757D912D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F43B8940-3AA3-4B6F-BA7A-8905757D912D}.Debug|Win32.Build.0 = Debug|Win32
+		{F43B8940-3AA3-4B6F-BA7A-8905757D912D}.Release|Win32.ActiveCfg = Release|Win32
+		{F43B8940-3AA3-4B6F-BA7A-8905757D912D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
